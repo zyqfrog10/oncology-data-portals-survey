@@ -4,7 +4,7 @@ A curated, living directory of major pan-cancer and specialized disease/foundati
 
 > **Companion files:**
 > - [cancer-data-portals.csv](cancer-data-portals.csv) — Machine-readable matrix of all 19 portals (major + specialized/foundation tier).
-> - **Recommended citation / archiving:** [Zenodo](https://about.zenodo.org/) to mint a permanent DOI for each release.
+> - **citation:** [Zenodo](https://zenodo.org/records/24381576) (DOI 10.5281/zenodo.24381575).
 
 ---
 
