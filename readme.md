@@ -1,10 +1,10 @@
-# Cancer Research Data Portals: A Comparative Survey
+# Cancer Research Data Portals Survey
 
 A curated, living directory of major pan-cancer and specialized disease/foundation cancer research data portals—comparing **preliminary browser-based analysis capacity**, **data scale**, **molecular & clinical modalities**, **development stages**, and **operational tradeoffs** (as of November 2026).
 
 > **Companion files:**
-> - [cancer-data-portals.csv](https://www.google.com/search?q=./cancer-data-portals.csv) — Machine-readable matrix of all 19 portals (major + specialized/foundation tier).
-> - **Recommended citation / archiving:** Connect this repository to [Zenodo](https://about.zenodo.org/) ([CASRAI Zenodo Guide](https://casrai.org/guides/zenodo-repository)) to mint a permanent DOI for each release.
+> - [cancer-data-portals.csv](cancer-data-portals.csv) — Machine-readable matrix of all 19 portals (major + specialized/foundation tier).
+> - **Recommended citation / archiving:** [Zenodo](https://about.zenodo.org/) to mint a permanent DOI for each release.
 
 ---
 
@@ -67,3 +67,9 @@ A curated, living directory of major pan-cancer and specialized disease/foundati
 ## Contributing
 
 Know a disease-specific or regional cancer data portal that should be added? Open a Pull Request updating both `README.md` and `cancer-data-portals.csv` with a verified documentation URL, analysis capabilities, and current development stage.
+
+---
+
+## License
+
+Data in this repository is licensed under CC-BY-4.0.
